@@ -4,7 +4,7 @@
 
 <p>
     <img src="https://img.shields.io/static/v1?label=NATS&message=Latest&style=flat&logo=nats&colorA=24273A&colorB=8AADF4&logoColor=CAD3F5"/>
-    <img src="https://img.shields.io/static/v1?label=Go&message=1.20&style=flat&logo=go&colorA=24273A&colorB=00ADD8&logoColor=CAD3F5"/>
+    <img src="https://img.shields.io/static/v1?label=Go&message=1.22&style=flat&logo=go&colorA=24273A&colorB=00ADD8&logoColor=CAD3F5"/>
     <img src="https://img.shields.io/static/v1?label=Node.js&message=22.6&style=flat&logo=node.js&colorA=24273A&colorB=339933&logoColor=CAD3F5"/>
 </p>
 
