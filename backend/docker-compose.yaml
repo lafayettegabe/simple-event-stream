@@ -1,0 +1,14 @@
+services:
+  nats:
+    image: nats:latest
+    ports:
+      - "4222:4222"
+    
+  publisher:
+    build: ./publisher/
+    depends_on: 
+      - nats
+    environment:
+      - NATS_URL=nats://nats:4222
+    deploy:
+      replicas: 3
